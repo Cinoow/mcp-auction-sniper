@@ -9,4 +9,4 @@ venv/
 config/claude_config.json
 
 # Données récupérées (pour ne pas polluer le code)
-data/
+data/.DS_Store
