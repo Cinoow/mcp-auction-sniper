@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Configuration Claude (contient des chemins persos)
+config/claude_config.json
+
+# Données récupérées (pour ne pas polluer le code)
+data/
